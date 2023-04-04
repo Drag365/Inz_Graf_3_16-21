@@ -65,6 +65,9 @@
     <ClInclude Include="technique.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
+    <ClInclude Include="util.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config">
