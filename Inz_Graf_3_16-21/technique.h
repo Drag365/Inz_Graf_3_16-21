@@ -1,4 +1,3 @@
-#pragma once
 #ifndef TEXHNIQUE_H
 #define TEXHNIQUE_H
 
